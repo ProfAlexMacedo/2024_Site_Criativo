@@ -1,0 +1,50 @@
+*{                  /*reseta o espaçamento padrão do navegador*/
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-color: blue;     /*cor do fundo*/
+                  
+}
+.titulo_cabecalho{
+    font-size: 30px;        /*tamanho da fonte*/
+    color:white;        /*cor da fonte*/
+    padding: 5px;      /*"afasta" a borda do conteúdo*/
+} 
+.secao_apresentacao{
+    background-color: lightblue;        /*cor do fundo*/
+}
+.titulo_boas_vindas{
+    font-size: 30px;        /*tamanho da fonte*/
+    padding: 1%;        /*"afasta" a borda do conteúdo*/
+    text-align:center;    /*alinha texto ao centro*/
+
+}
+.card_apresentacao{
+    background-color: white;    /*cor do fundo*/
+    width: 50%;                 /*medida horizontal*/
+    margin-left: 25%;           /*margem a esquerda*/
+    text-align: center;         /*alinha texto ao centro*/
+
+}
+.foto_professor{
+    width: 40%;                 /*medida horizontal*/
+    padding: 2%;                /*"afasta" a borda do conteúdo*/
+}
+p{
+    font-size: 20px;
+    padding: 2%;
+}
+.mensagem_final{
+    font-size: 30px;        /*tamanho da fonte*/
+    padding: 1%;        /*"afasta" a borda do conteúdo*/
+    text-align:center;    /*alinha texto ao centro*/
+}
+footer{
+    background-color: blue;
+    padding: 1%;
+    text-align: right;
+}
+.titulo_contato{
+    color:white;
+}
